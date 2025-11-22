@@ -87,7 +87,7 @@ The API will be available at `http://localhost:8000`
 - API documentation with OpenAPI
 
 
-## Follow these steps to deploy in Uroku Server
+## Follow these steps to deploy in Heroku Server
 - We need Gunicorn for serving request on Heroku so install as below
 
 ```pip install gunicorn```
